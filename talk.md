@@ -81,7 +81,19 @@ __[C]__Within the __[G]__sound of __[Am]__silence.
 
 ---
 
-## But it doesn't _really_<br>understands chords
+## But it only<br>understands text
+
+---
+
+## It doesn't _really_<br>understands chords
+
+---
+
+## String __->__ [Chord]
+
+---
+
+## String __->__ [String]
 
 ---
 
@@ -91,7 +103,7 @@ __[C]__Within the __[G]__sound of __[Am]__silence.
 
 ## 😥[^*]
 
-[^*]: disappointed but relieved face
+[^*]: disappointed\_but\_relieved\_face
 
 ---
 
@@ -333,10 +345,10 @@ type TertianQuality
 # Thank you!
 
 __CODE__
-github.com/Arkham/elm-chords
+[github.com/Arkham/elm-chords](https://github.com/Arkham/elm-chords)
 
 __DEMO__
-ellie-app.com/5wDzdJyjQ6Ca1
+[ellie-app.com/5wDzdJyjQ6Ca1](https://ellie-app.com/5wDzdJyjQ6Ca1)
 
 __LIVE DEMO__
-ellie-app.com/5wKq8hvfXxBa1
+[ellie-app.com/5wKq8hvfXxBa1](https://ellie-app.com/5wKq8hvfXxBa1)
